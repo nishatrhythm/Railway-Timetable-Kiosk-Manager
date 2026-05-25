@@ -1,0 +1,74 @@
+[
+  {
+    "number": "৭৪৯",
+    "name": "এগারো সিন্দুর গোধূলী",
+    "platform": "০৬",
+    "destination": "কিশোরগঞ্জ",
+    "departure": "১৮:৪৫",
+    "expected": ""
+  },
+  {
+    "number": "৮২৬",
+    "name": "জাহানাবাদ এক্সপ্রেস",
+    "platform": "১৪<br>(শহরতলী)",
+    "destination": "খুলনা",
+    "departure": "২০:০০",
+    "expected": ""
+  },
+  {
+    "number": "৭৯৭",
+    "name": "কুড়িগ্রাম এক্সপ্রেস",
+    "platform": "",
+    "destination": "কুড়িগ্রাম",
+    "departure": "২০:০০",
+    "expected": "২২:৪০"
+  },
+  {
+    "number": "৭৭১",
+    "name": "দ্রুতযান এক্সপ্রেস",
+    "platform": "০৩",
+    "destination": "পঞ্চগড়",
+    "departure": "২০:৪৫",
+    "expected": ""
+  },
+  {
+    "number": "৭৫১",
+    "name": "লালমনি এক্সপ্রেস",
+    "platform": "",
+    "destination": "লালমনিরহাট",
+    "departure": "২১:৪৫",
+    "expected": "২৩:৩০"
+  },
+  {
+    "number": "৭৩৯",
+    "name": "উপবন এক্সপ্রেস",
+    "platform": "",
+    "destination": "সিলেট",
+    "departure": "২২:০০",
+    "expected": "২২:৫৫"
+  },
+  {
+    "number": "৮১৪",
+    "name": "কক্সবাজার এক্সপ্রেস",
+    "platform": "০৪",
+    "destination": "কক্সবাজার",
+    "departure": "২৩:০০",
+    "expected": ""
+  },
+  {
+    "number": "৭৪২",
+    "name": "তূর্ণা এক্সপ্রেস",
+    "platform": "০৭",
+    "destination": "চট্টগ্রাম",
+    "departure": "২৩:১৫",
+    "expected": ""
+  },
+  {
+    "number": "৭৯৬",
+    "name": "বেনাপোল এক্সপ্রেস",
+    "platform": "০৮<br>(শহরতলী)",
+    "destination": "বেনাপোল",
+    "departure": "২৩:৩০",
+    "expected": ""
+  }
+]
